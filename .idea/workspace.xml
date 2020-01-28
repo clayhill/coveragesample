@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0264dbde-78a1-48c8-a2cb-03b9b7ac9e6b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/CoverageSample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.rspec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ruby-gemset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ruby-version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.simplecov" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoverageSample.gemspec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rakefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/console" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/setup" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/CoverageSample.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/CoverageSample/FileToIgnore.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/CoverageSample/version.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spec/CoverageSample_spec.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spec/spec_helper.rb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="204" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/coverage" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Ruby File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1X1reVvAkPOAl2SQ7xOLMl4CXk3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spec" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="All Specs" type="RSpecRunConfigurationType" factoryName="RSpec">
+      <module name="CoverageSample" />
+      <predefined_log_file enabled="true" id="RUBY_RSPEC" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="$MODULE_DIR$/spec" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="ALL_IN_FOLDER" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0264dbde-78a1-48c8-a2cb-03b9b7ac9e6b" name="Default Changelist" comment="" />
+      <created>1580224536309</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580224536309</updated>
+      <workItem from="1580224537940" duration="2087000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="236" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580224606803">
+      <screen x="0" y="0" width="1920" height="1157" />
+    </state>
+    <state x="418" y="236" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1157/1920.0.1920.1200@0.0.1920.1157" timestamp="1580224606803" />
+    <state x="743" y="336" width="424" height="494" key="FileChooserDialogImpl" timestamp="1580224576664">
+      <screen x="0" y="0" width="1920" height="1157" />
+    </state>
+    <state x="743" y="336" width="424" height="494" key="FileChooserDialogImpl/0.0.1920.1157/1920.0.1920.1200@0.0.1920.1157" timestamp="1580224576664" />
+    <state width="1874" height="309" key="GridCell.Tab.0.bottom" timestamp="1580226626799">
+      <screen x="0" y="0" width="1920" height="1157" />
+    </state>
+    <state width="1874" height="309" key="GridCell.Tab.0.bottom/0.0.1920.1157/1920.0.1920.1200@0.0.1920.1157" timestamp="1580226626799" />
+    <state width="1874" height="309" key="GridCell.Tab.0.bottom/0.0.1920.1157/1920.0.1920.1200@1920.0.1920.1200" timestamp="1580224952102" />
+    <state width="1874" height="309" key="GridCell.Tab.0.center" timestamp="1580226626798">
+      <screen x="0" y="0" width="1920" height="1157" />
+    </state>
+    <state width="1874" height="309" key="GridCell.Tab.0.center/0.0.1920.1157/1920.0.1920.1200@0.0.1920.1157" timestamp="1580226626798" />
+    <state width="1874" height="309" key="GridCell.Tab.0.center/0.0.1920.1157/1920.0.1920.1200@1920.0.1920.1200" timestamp="1580224952102" />
+    <state width="1874" height="309" key="GridCell.Tab.0.left" timestamp="1580226626798">
+      <screen x="0" y="0" width="1920" height="1157" />
+    </state>
+    <state width="1874" height="309" key="GridCell.Tab.0.left/0.0.1920.1157/1920.0.1920.1200@0.0.1920.1157" timestamp="1580226626798" />
+    <state width="1874" height="309" key="GridCell.Tab.0.left/0.0.1920.1157/1920.0.1920.1200@1920.0.1920.1200" timestamp="1580224952102" />
+    <state width="1874" height="309" key="GridCell.Tab.0.right" timestamp="1580226626799">
+      <screen x="0" y="0" width="1920" height="1157" />
+    </state>
+    <state width="1874" height="309" key="GridCell.Tab.0.right/0.0.1920.1157/1920.0.1920.1200@0.0.1920.1157" timestamp="1580226626799" />
+    <state width="1874" height="309" key="GridCell.Tab.0.right/0.0.1920.1157/1920.0.1920.1200@1920.0.1920.1200" timestamp="1580224952102" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CoverageSample@All_Specs.rcov" NAME="All Specs Coverage Results" MODIFIED="1580225374943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" MODULE_NAME="CoverageSample" />
+  </component>
+</project>
